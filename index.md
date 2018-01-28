@@ -53,7 +53,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
               user_name: 'ashwin',
               account_id: account_id,
               account_name: 'INSERT_ACCOUNT_NAME_HERE',
-              user_email: "none"
+              user_email: "none",
               signup_date: '2018-01-27',
             })
             useriq.startTracker()
